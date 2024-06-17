@@ -7,8 +7,8 @@
     <ProjectGuid>{E1F2A3A1-5307-4D6E-AFC0-F62FE6536CB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyAdofaiMod</RootNamespace>
-    <AssemblyName>MyAdofaiMod</AssemblyName>
+    <RootNamespace>AdofaiModPatcher</RootNamespace>
+    <AssemblyName>AdofaiModPatcher</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

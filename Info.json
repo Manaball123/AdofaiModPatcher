@@ -1,11 +1,11 @@
 {
-  "Id": "MyAdofaiMod",
-  "DisplayName": "My ADOFAI Mod",
+  "Id": "AdofaiModPatcher",
+  "DisplayName": "Adofai Mod Patcher",
   "Author": "<fill in>",
   "Version": "$VERSION",
   "ManagerVersion": "0.22.14.0",
-  "AssemblyName": "MyAdofaiMod.dll",
-  "EntryMethod": "MyAdofaiMod.Startup.Load",
+  "AssemblyName": "AdofaiModPatcher.dll",
+  "EntryMethod": "AdofaiModPatcher.Startup.Load",
   "HomePage": "<fill in or delete>",
   "Repository": "<fill in or delete>"
 }
