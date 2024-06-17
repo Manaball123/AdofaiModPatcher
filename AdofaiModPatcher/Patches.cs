@@ -6,7 +6,7 @@ using System.Security.Policy;
 using UnityEngine;
 
 // TODO: Rename this namespace to your mod's name.
-namespace MyAdofaiMod
+namespace AdofaiModPatcher
 {
     /// <summary>
     /// Add all of your <see cref="HarmonyPatch"/> classes here. If you find

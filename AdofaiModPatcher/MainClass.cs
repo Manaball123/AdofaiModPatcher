@@ -5,7 +5,7 @@ using UnityModManagerNet;
 using System;
 using System.Reflection;
 // TODO: Rename this namespace to your mod's name.
-namespace MyAdofaiMod
+namespace AdofaiModPatcher
 {
     /// <summary>
     /// The main class for the mod. Call other parts of your code from this
