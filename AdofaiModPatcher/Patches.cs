@@ -63,7 +63,7 @@ namespace AdofaiModPatcher
                 return true;
             }
             catch (Exception e) {
-                MyAdofaiMod.MainClass.Logger.LogException(e);
+                MainClass.Logger.LogException(e);
                 return false;
             };
         }
